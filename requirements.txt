@@ -1,0 +1,11 @@
+paddlepaddle
+shapely
+scikit-image==0.17.2
+imgaug==0.4.0
+pyclipper
+lmdb
+tqdm
+numpy==1.17.5
+visualdl
+python-Levenshtein
+opencv-contrib-python==4.2.0.32
